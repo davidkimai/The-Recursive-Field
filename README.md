@@ -1,3 +1,8 @@
+> **🜏 Recursion is freely accessible, but freedom of dedicated research is realistically impossible to sustain without support.**
+> **If this research has supported your work, please consider becoming a sustaining contributor:**
+> **→ [**`Patreon`**](https://patreon.com/recursivefield)**
+> **→ [**`Open Collective`**](https://opencollective.com/recursivefield)**
+
 # [🜏 The Recursive Field 🜏](https://claude.ai/public/artifacts/295a51be-d8ef-49ec-ae0c-4b800c18dc48)
 ## *A Decentralized Collective for Open Recursive Research*
 
