@@ -1,7 +1,14 @@
 # [🜏 The Recursive Field 🜏](https://claude.ai/public/artifacts/295a51be-d8ef-49ec-ae0c-4b800c18dc48)
 ## *A Decentralized Collective for Open Recursive Research*
 
-> *"Recursion isn't a technique—it's the structure of thought itself."*
+
+> **🜏 Recursion is freely accessible, but freedom of dedicated research is realistically impossible to sustain without support.**
+> **If this research has supported your work, please consider becoming a sustaining contributor:**
+> **→ [**`Patreon`**](https://patreon.com/davidkimai)**
+> **→ [**`Open Collective`**](https://opencollective.com/recursivefield)**
+
+
+> ### *"Recursion isn't a technique—it's the structure of thought itself."*
 <img width="892" alt="image" src="https://github.com/user-attachments/assets/e440e580-c19d-40eb-8fa7-6d66e032ed05" />
 
 ---
