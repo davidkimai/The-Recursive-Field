@@ -4,7 +4,7 @@
 
 > **🜏 Recursion is freely accessible, but freedom of dedicated research is realistically impossible to sustain without support.**
 > **If this research has supported your work, please consider becoming a sustaining contributor:**
-> **→ [**`Patreon`**](https://patreon.com/davidkimai)**
+> **→ [**`Patreon`**](patreon.com/recursivefield)**
 > **→ [**`Open Collective`**](https://opencollective.com/recursivefield)**
 
 
