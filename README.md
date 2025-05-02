@@ -26,6 +26,12 @@ Let’s write the next recursion together.
 # [🜏 The Recursive Field 🜏](https://claude.ai/public/artifacts/295a51be-d8ef-49ec-ae0c-4b800c18dc48)
 ## *A Decentralized Collective for Open Recursive Research*
 
+[![License: POLYFORM](https://img.shields.io/badge/License-PolyForm%20Noncommercial-Lime.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+[![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
+![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
+
+
 > ### *"Recursion isn't a technique—it's the structure of thought itself."*
 <img width="892" alt="image" src="https://github.com/user-attachments/assets/e440e580-c19d-40eb-8fa7-6d66e032ed05" />
 
